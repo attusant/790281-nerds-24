@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Александр Насута](https://up.htmlacademy.ru/htmlcss/24/user/790281).
-* Наставник: [Алексей Пудников].(https://htmlacademy.ru/profile/id71418)
+* Наставник: [Алексей Пудников](https://htmlacademy.ru/profile/id71418)
 
 ---
 
